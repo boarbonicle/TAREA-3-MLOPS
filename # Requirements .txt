@@ -1,0 +1,3 @@
+# Requirements 
+
+No se utiliza ninguna libreria externa a python. 
